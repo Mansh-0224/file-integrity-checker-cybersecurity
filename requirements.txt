@@ -1,0 +1,19 @@
+# File Integrity Checker Project Requirements
+
+# Core Python libraries (usually included in Python standard library)
+# - hashlib: For cryptographic hashing
+# - os: For file system operations  
+# - json: For data serialization
+# - datetime: For timestamps
+# - threading: For concurrent operations
+# - tkinter: For GUI (included with Python)
+# - argparse: For command line parsing
+
+# External libraries that need to be installed
+psutil>=5.8.0          # System and process utilities
+watchdog>=2.1.6        # File system monitoring
+colorama>=0.4.4        # Colored terminal output
+
+# Optional libraries for enhanced functionality
+cryptography>=3.4.8    # Advanced cryptographic functions
+requests>=2.25.1       # For downloading files and verification

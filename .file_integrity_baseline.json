@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-10-08T19:42:28.868485",
+  "directory": "D:\\Project\\file-integrity-checker-cybersecurity",
+  "algorithm": "sha256",
+  "files": {
+    "advanced_file_integrity_monitor.py": {
+      "hash": "bcac542568d47e12543dff96cc2ade6119940c3d42c6d2617a281c34f895e368",
+      "size": 17478,
+      "modified_time": 1759931536.923413,
+      "permissions": "666",
+      "algorithm": "sha256"
+    },
+    "basic_file_integrity_checker.py": {
+      "hash": "95a028ae2129be4693fbbe4ed60dff3a88c04080f01db0c7493d8ebb18ae7ec0",
+      "size": 10093,
+      "modified_time": 1759931534.2601292,
+      "permissions": "666",
+      "algorithm": "sha256"
+    },
+    "demo.py": {
+      "hash": "8bc1e3a2f921c293b8559b4d878c3c9d994c390f707b7ca3adb3593feca4545c",
+      "size": 8051,
+      "modified_time": 1759931656.4818454,
+      "permissions": "666",
+      "algorithm": "sha256"
+    },
+    "gui_file_integrity_checker.py": {
+      "hash": "8de38dba73b6ff247aa8b98c7b05af367eb4d183cb00ffbff27f62bec70b985f",
+      "size": 26188,
+      "modified_time": 1759931539.2905667,
+      "permissions": "666",
+      "algorithm": "sha256"
+    },
+    "install.bat": {
+      "hash": "fed58ae7e8a29d46f55963f2ba02302c05496d98fd66e4c249b9c8a24f3d6de5",
+      "size": 669,
+      "modified_time": 1759932384.8563213,
+      "permissions": "777",
+      "algorithm": "sha256"
+    },
+    "LICENSE": {
+      "hash": "fa3fdd718c023a897916765f7c57830a8a1e1068db0649ab60f9cdf43bb0a0f7",
+      "size": 1088,
+      "modified_time": 1759930550.4211075,
+      "permissions": "666",
+      "algorithm": "sha256"
+    },
+    "README.md": {
+      "hash": "8246727ea7e08d8dca994be19f9cfed435acb62532cb6043983297e4b8a34657",
+      "size": 128,
+      "modified_time": 1759930550.4211075,
+      "permissions": "666",
+      "algorithm": "sha256"
+    },
+    "requirements.txt": {
+      "hash": "0e1b30753426bdc65c196adc832378adc903821975d95f25fa3b79b078194ae2",
+      "size": 768,
+      "modified_time": 1759931589.4887433,
+      "permissions": "666",
+      "algorithm": "sha256"
+    }
+  }
+}
