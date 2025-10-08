@@ -19,3 +19,6 @@ This project provides three powerful tools for cybersecurity professionals:
 ### Installation
 
 **Windows:**
+git clone https://github.com/yourusername/file-integrity-checker-cybersecurity.git
+cd file-integrity-checker-cybersecurity
+install.bat
